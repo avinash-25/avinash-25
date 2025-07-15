@@ -12,12 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Graduate (2024) | BCA (2020)  
+- 🎓 MCA Graduate (2024) 82% | BCA (2020)  79%
 - 🛠️ Currently working on: **MERN stack projects**  
-- 🧠 Learning: **System Design**, **Advanced Java**, and **DSA for MAANG**  
-- 🧩 Solved **300+ DSA problems** on LeetCode  
-- 🌱 Exploring **Cloud deployment** & **CI/CD pipelines**  
-- 👨‍🌾 Future Goal: Tech + Agriculture = Life 🌾💻
+- 🧠 Learning: **Polishing MERN**, **Advanced Java**, and **DSA for MAANG**  
+- 🧩 Solved **400+ DSA problems** on LeetCode  
+- 🌱 Exploring **Cloud deployment** & **CI/CD pipelines** 
 
 ---
 
@@ -51,18 +50,20 @@
 ---
 
 ### 📫 Let’s Connect!
-
-- 🔗 [Portfolio Website](https://avinashranjan.me)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinashranjan25/)  
-- 📬 Email: avinashranjanmca@gmail.com  
-- 🧠 [LeetCode](https://leetcode.com/Avinash25/)
+  
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-ranjan-0a58a516b/)
+- 📬 Email: avinashranjan918@gmail.com  
+- 🧠 [LeetCode](https://leetcode.com/avinash-25/)
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&theme=github_dark" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=avinash-25&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" width="400" />
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/avinash-25?ext=heatmap&theme=dark" width="400" />
 </p>
+
 
 ---
 
