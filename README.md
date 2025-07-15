@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Ranjan</h1>
 
 <p align="center">
-  🚀 Backend Developer | Java • Node.js • MongoDB  
+  🚀 Backend Developer | Javascript • Node.js • MongoDB • Express.js • React.js • java • SQL   
   <br/>
   🎯 Focused on building scalable APIs, full-stack projects & writing clean code  
   <br/>
