@@ -33,7 +33,7 @@
 - 🔗 [**BookFlix - E-commerce Website**](https://github.com/avinash-25/BOOKFLIX_-_E-Commerce-website)  
   `PHP + MySQL` based e-commerce app with cart, login, search features
 
-- 🔗 [**Travel & Tour App (Java Desktop)**](https://github.com/avinash-25/Travel-Tour-management-desktop-app)  
+- 🔗 [**Travel & Tour App (Java Desktop)**](https://github.com/avinash-25/Travel-Tour-web-app)
   Built using Java, Swing, SQL – manage packages, bookings, and invoices
 
 - 🔗 [**Login Page UI**](https://github.com/avinash-25/LoginPage)  
@@ -43,7 +43,7 @@
 
 ### 💡 DSA Journey
 
-- 👨‍💻 Solving problems on [LeetCode](https://leetcode.com/Avinash25/)
+- 👨‍💻 Solving problems on [LeetCode](https://leetcode.com/avinash-25/)
 - Practicing: Arrays, LinkedLists, Trees, DP, Sliding Window, Graphs
 - Goal: Become interview-ready for MAANG & top startups
 
