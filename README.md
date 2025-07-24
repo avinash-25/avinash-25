@@ -146,12 +146,33 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinash-25/avinash-25/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinash-25/avinash-25/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/avinash-25/avinash-25/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Professional GitHub Metrics -->
+<div align="center">
+
+### **📊 GitHub Insights & Performance**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-25&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash-25&theme=tokyonight" width="48%" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avinash-25&theme=tokyonight" width="48%" alt="Top Languages by Commits"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinash-25&theme=tokyonight" width="48%" alt="GitHub Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avinash-25&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
+</div>
+
+</div>
+
+<!-- Coding Activity Heatmap -->
+<div align="center">
+
+### **🔥 Coding Activity & Contribution Patterns**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
 
 <!-- Animated Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
