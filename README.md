@@ -143,7 +143,7 @@
 <!-- Animated Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Keep+Building+Amazing+Things;⚡+Code+with+Passion;⚡+Debug+with+Patience;⚡+Deploy+with+Confidence;⚡+Jai+Mahakal+🙏" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Keep+Building+Amazing+Things;⚡+Code+with+Passion;⚡+Debug+with+Patience;⚡+Deploy+with+Confidence;" alt="Typing SVG" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
