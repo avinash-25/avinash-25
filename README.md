@@ -100,7 +100,6 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **GitHub Analytics** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
 
 </div>
-
 <div align="center">
   
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
