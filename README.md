@@ -1,164 +1,299 @@
 <div align="center">
-  
-<!-- Animated Header with Gradient Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Ranjan;Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+<!-- 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AVINASH%20RANJAN&fontSize=70&color=0:8B5CF6,50:EC4899,100:3B82F6&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Enthusiast&descSize=20&descAlignY=60"/>
+
+<!-- Holographic Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Building+scalable+web+applications;💻+400%2B+Problems+Solved+on+LeetCode;🎯+Passionate+about+clean+code+%26+innovation" alt="Typing SVG" />
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-<!-- Professional Badge Section -->
+<!-- Floating Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_MCA_Graduate-2024-blueviolet?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_Open_To_Work-Available-success?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍_Location-India-orange?style=for-the-badge&logoColor=white" />
+</p>
+
+<br>
+
+<!-- 3D About Me Card -->
 <div align="center">
   
-[![](https://img.shields.io/badge/🚀_Backend_Developer-00D4FF?style=for-the-badge&labelColor=0D1117)](https://github.com/avinash-25)
-[![](https://img.shields.io/badge/💻_MERN_Stack-61DAFB?style=for-the-badge&labelColor=0D1117)](https://github.com/avinash-25)
-[![](https://img.shields.io/badge/🎯_Problem_Solver-FF6B6B?style=for-the-badge&labelColor=0D1117)](https://leetcode.com/avinash-25/)
-[![](https://img.shields.io/badge/📍_Open_to_Work-4ECDC4?style=for-the-badge&labelColor=0D1117)](mailto:avinashranjan918@gmail.com)
+## 🌟 ABOUT ME
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="50%">
 
-<!-- Animated About Section -->
+```javascript
+const avinash = {
+    education: {
+        mca: "82% (2024)",
+        bca: "79% (2020)"
+    },
+    code: ["JavaScript", "Java", "Python"],
+    technologies: {
+        backend: ["Node.js", "Express"],
+        frontend: ["React", "HTML5", "CSS3"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "Postman", "VS Code"]
+    },
+    currentFocus: "Advanced System Design",
+    challenge: "400+ DSA Problems Solved 🔥",
+    funFact: "Coffee ☕ → Code → Debug → Deploy 🚀"
+};
+```
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+### **🎯 Quick Facts**
+
+```yaml
+🔭 Working on: Advanced MERN Stack Projects
+🌱 Learning: AWS, Docker, Microservices
+🎮 Interests: Problem Solving & Cloud Computing
+💬 Ask me about: Full-Stack Development
+📫 Reach me: avinashranjan918@gmail.com
+⚡ Superpower: Turning coffee into code
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Snake -->
 <div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br>
 
-- 🎓 **MCA Graduate (2024)** - 82% | **BCA (2020)** - 79%
-- 🛠️ **Currently Building:** Advanced MERN stack applications
-- 🧠 **Learning Path:** Advanced Java, System Design, Cloud Architecture  
-- 🏆 **Achievement:** 400+ DSA problems solved on LeetCode
-- 🌱 **Exploring:** AWS, Docker, Microservices, CI/CD pipelines
-- 💡 **Goal:** Contributing to innovative software solutions at top tech companies
-- ⚡ **Fun Fact:** I debug with coffee and deploy with confidence!
-
-<br clear="right"/>
-
----
-
-<!-- Tech Stack with Animated Icons -->
+<!-- Tech Stack with Glow Effect -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **Tech Arsenal** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+## 💎 TECH STACK & EXPERTISE
 
-</div>
-
-<div align="center">
-
-### **Languages & Core Technologies**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
-
-</div>
-
----
-
-<!-- Featured Projects Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Featured Projects** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 <div align="center">
 
-| 🚀 **Project** | 💡 **Description** | 🛠️ **Tech Stack** | 🔗 **Link** |
-|:---:|:---:|:---:|:---:|
-| **📚 BOOKFLIX** | Full-featured e-commerce platform for book lovers with secure payment integration | `PHP` `MySQL` `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinash-25/BOOKFLIX_-_E-Commerce-website) |
-| **🌍 Travel Tour Manager** | Comprehensive desktop application for tour management with booking system | `Java` `SQL` `Swing` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinash-25/Travel-Tour-web-app) |
-| **🔐 Animated Login UI** | Modern, responsive login interface with smooth animations | `HTML` `CSS` `JavaScript` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinash-25/LoginPage) |
+### **💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
+
+### **🛠️ Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
+
+### **⚙️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
 </div>
 
----
+<br>
 
-<!-- GitHub Stats Section -->
+<!-- 3D Contribution Graph -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **GitHub Analytics** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
-
-</div>
-<div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
-
-</div>
-
-<!-- LeetCode Stats -->
-<div align="center">
-
-### **🏆 LeetCode Journey**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/avinash-25?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/avinash-25/)
-
-</div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+## 📊 GITHUB STATISTICS
 
 </div>
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&border_radius=10" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-25&theme=dark&hide_border=true&stroke=8B5CF6&background=0D1117&ring=EC4899&fire=3B82F6&currStreakLabel=8B5CF6&border_radius=10" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-ranjan-0a58a516b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashranjan918@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/avinash-25/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinash-25)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/avinash51496184)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-25&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&border_radius=10" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=3B82F6&border_radius=10" />
+</div>
 
+<br>
+
+<!-- LeetCode Card with Animation -->
+<div align="center">
+
+## 🏆 CODING PROFILES
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://leetcode.com/avinash-25/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/avinash-25?theme=dark&font=Ubuntu&border=0&radius=20&ext=contest" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
----
+<br>
+
+<!-- Featured Projects Section with Cards -->
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📚 **BOOKFLIX**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+E-commerce platform for book enthusiasts with secure payment gateway integration and comprehensive inventory management.
+
+<a href="https://github.com/avinash-25/BOOKFLIX_-_E-Commerce-website">
+  <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🌍 **Travel Tour Manager**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+Desktop application for comprehensive tour management with booking systems and customer management features.
+
+<a href="https://github.com/avinash-25/Travel-Tour-web-app">
+  <img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 **Animated Login UI**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Modern responsive login interface with smooth animations and contemporary design patterns.
+
+<a href="https://github.com/avinash-25/LoginPage">
+  <img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 💡 **More Projects Coming Soon...**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+Working on exciting MERN stack applications with cutting-edge technologies and modern architectures.
+
+<a href="https://github.com/avinash-25?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Trophies -->
+<div align="center">
+
+## 🏅 GITHUB TROPHIES
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avinash-25&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+</div>
+
+<br>
+
+<!-- Connect Section with Hover Effect -->
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinash-ranjan-0a58a516b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&labelColor=0077B5" />
+  </a>
+  <a href="mailto:avinashranjan918@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&labelColor=D14836" />
+  </a>
+  <a href="https://leetcode.com/avinash-25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&style=plastic&labelColor=FFA116" />
+  </a>
+  <a href="https://github.com/avinash-25">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic&labelColor=181717" />
+  </a>
+  <a href="https://x.com/avinash51496184">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&labelColor=1DA1F2" />
+  </a>
+</p>
+
+</div>
+
+<br>
+
+<!-- Motivational Quote -->
+<div align="center">
+
+### 💭 **Developer Quote of the Day**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&bg_color=0d1117&color=8b5cf6&line=ec4899&point=3b82f6&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+</div>
+
+<br>
 
 <!-- Animated Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Keep+Building+Amazing+Things;⚡+Code+with+Passion;⚡+Debug+with+Patience;⚡+Deploy+with+Confidence;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=800&lines=⚡+Thanks+for+visiting+my+profile!;💻+Let's+build+something+amazing+together;🚀+Always+learning%2C+always+growing;☕+Fueled+by+coffee+and+passion" alt="Footer Typing SVG" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-25&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
-
-
-
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+<!-- Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinash-25&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/avinash-25?label=Followers&style=for-the-badge&color=EC4899&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/avinash-25?label=Stars&style=for-the-badge&color=3B82F6&labelColor=0d1117" alt="stars" />
+</p>
+
+---
+
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=avinash-25&label=Profile%20views&color=00d4ff&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/avinash-25?label=Follow&style=social)](https://github.com/avinash-25)
+### **✨ Show some ❤️ by starring some repositories! ✨**
 
 </div>
