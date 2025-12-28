@@ -100,22 +100,22 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **GitHub Analytics** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
 </div>
 
-
-
-
-
 <div align="center">
   
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&cache_seconds=86400"/>
+<!-- GitHub Stats with fallback -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=avinash-25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&cache_seconds=1800&rank_icon=github"/>
+
+<!-- GitHub Streak Stats -->
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
 </div>
 
-<!-- LeetCode Stats -->
+<!-- LeetCode Stats with multiple options -->
 <div align="center">
 
 ### **🏆 LeetCode Journey**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/avinash-25?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/avinash-25/)
 
-</div>
+![LeetCode Stats](https://leetcode-stats-inky.vercel.app/?username=avinash-25&ranking=true)
 
 ---
 
